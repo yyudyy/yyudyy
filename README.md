@@ -14,7 +14,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hey! I'm <b>[Yudy](https://www.linkedin.com/in/rafael-yudy-586396236/) | [勇次](https://www.linkedin.com/in/rafael-yudy-586396236/)</b>
+      Hey! I'm <b>[Yudy](https://www.linkedin.com/in/rafael-yudy) | [勇次](https://www.linkedin.com/in/rafael-yudy)</b>
   </samp>
 </div>
 
@@ -57,7 +57,7 @@
   [![Instagram](https://img.shields.io/badge/instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white
   )](https://www.instagram.com/yudyrafael/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedIn&logoColor=white
-  )](https://www.linkedin.com/in/rafael-yudy-586396236/)
+  )](https://www.linkedin.com/in/rafael-yudy)
   
 </div>
 
