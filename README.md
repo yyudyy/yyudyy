@@ -1,6 +1,7 @@
 <br>
 <br>
 <br>
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4B0082&fontColor=DAA520&fontSize=0&fontAlign=50&fontAlignY=50&rotate=0&section=header&reversal=false" alt="Banner Waving" />
 </div>
@@ -113,6 +114,10 @@
 
 <br/>
 <br/>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yyudyy&theme=omni" alt="Linguagens de Repositórios" width="400">
+</p>
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4B0082&fontColor=DAA520&fontSize=0&fontAlign=50&fontAlignY=50&rotate=0&section=footer&reversal=false" alt="Footer Waving" />
 </div>
