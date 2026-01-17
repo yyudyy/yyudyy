@@ -1,7 +1,9 @@
 <br>
 <br>
 <br>
-
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4B0082&fontColor=DAA520&fontSize=0&fontAlign=50&fontAlignY=50&rotate=0&section=header&reversal=false" alt="Banner Waving" />
+</div>
 <div align="center">
   <img align="center" height="150" src="https://imgur.com/9vhYuAI.png" />
 </div>
@@ -111,5 +113,7 @@
 
 <br/>
 <br/>
-
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4B0082&fontColor=DAA520&fontSize=0&fontAlign=50&fontAlignY=50&rotate=0&section=footer&reversal=false" alt="Footer Waving" />
+</div>
 
